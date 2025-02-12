@@ -2,7 +2,8 @@
 
 Render            |  Real
 :-------------------------:|:-------------------------:
-<img width="759" alt="ed130eb8-e9cf-46bc-b179-3c29f74139bb" src="https://github.com/user-attachments/assets/8c2bfa3c-4272-426c-a526-0a7a45d237e5" /> | ![IMG_E566E174E43D-1](https://github.com/user-attachments/assets/663ee327-6ebf-47c2-a723-3dfb6b113a29)
+<img width="759" alt="ed130eb8-e9cf-46bc-b179-3c29f74139bb" src="https://github.com/user-attachments/assets/8c2bfa3c-4272-426c-a526-0a7a45d237e5" /> | ![663ee327-6ebf-47c2-a723-3dfb6b113a29](https://github.com/user-attachments/assets/e65e74c2-0947-4cfe-9e70-319032502a19)
+
 
 This system integrates a **BPOD** behavioral platform with a **circular LED display** and a **high-resolution rotary encoder**, creating a three-dimensional "colosseum-like" environment for a mouse in a neuroscience experiment. The mouse sits at the center of a 3D-printed, circular arena, surrounded by flexible LED panels. By turning a rotary encoder, the mouse effectively rotates a luminous vertical bar around the "walls" of this arena. Over time, the mouse can learn to anticipate the position of this bar, providing insights into spatial navigation and cognitive mapping.
 
