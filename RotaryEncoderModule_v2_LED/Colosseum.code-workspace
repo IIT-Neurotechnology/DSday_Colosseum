@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "250115-113720-teensy35",
+			"path": "../../../PlatformIO/Projects/250115-113720-teensy35"
+		}
+	],
+	"settings": {}
+}
