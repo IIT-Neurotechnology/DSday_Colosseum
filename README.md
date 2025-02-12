@@ -56,7 +56,8 @@ To handle the large number of LEDs (1024 WS2812Bs) efficiently, a **second Teens
   - This yields around **65 fps** as a theoretical maximum, assuming continuous updates.
 
 ---
-![5F6141D8-E102-4EB5-B657-579FACED96DF-ezgif com-optimize](https://github.com/user-attachments/assets/6fc6f9c6-3a99-4fa2-a4de-f5ea3d144b3a)
+![397879740-6fc6f9c6-3a99-4fa2-a4de-f5ea3d144b3a](https://github.com/user-attachments/assets/cb4c680b-034b-4676-8e4e-ab40f9b38491)
+
 
 ## Software Components
 
